@@ -1,8 +1,8 @@
 ###  DATE: 24-08-2024
 
-###  NAME: paida ram sai
-###  ROLL NO : 212223110034
-###  DEPARTMENT: B.E cse(iot)
+###  NAME: L yagnesh kumar reddy
+###  ROLL NO : 212223100024
+###  DEPARTMENT: B.E cse(cs)
 
 
 # EXPERIMENT--02-INTERFACING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-
